@@ -1,0 +1,13 @@
+server:
+  mode: debug
+  addr: 7777
+  readTimeout: 60
+  writeTimeout: 60
+
+aliYunOSS:
+  endpoint: oss-cn-shenzhen-internal.aliyuncs.com
+  accessKeyId: LTAI5tFP4HdssseSN8UV799a
+  accessKeySecret: UiYifZ7WZVfUoLtCoE02dcDvtw0hUX
+  bucketName: shenzhen-hellozwz
+  bucketUrl: shenzhen-hellozwz.oss-cn-shenzhen-internal.aliyuncs.com
+
