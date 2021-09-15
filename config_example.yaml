@@ -6,8 +6,8 @@ server:
 
 aliYunOSS:
   endpoint: oss-cn-shenzhen-internal.aliyuncs.com
-  accessKeyId: LTAI5tFP4HdssseSN8UV799a
-  accessKeySecret: UiYifZ7WZVfUoLtCoE02dcDvtw0hUX
-  bucketName: shenzhen-hellozwz
-  bucketUrl: shenzhen-hellozwz.oss-cn-shenzhen-internal.aliyuncs.com
+  accessKeyId: xxxxxxxxx
+  accessKeySecret: xxxxxxxxx
+  bucketName: xxx-xxxx
+  bucketUrl: xxxxxx-xxxxx.oss-cn-xxxxx-internal.aliyuncs.com
 
